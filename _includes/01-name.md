@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Mekha Ajith
+## Computer Science
+### Etical hacking and AI intrested field
